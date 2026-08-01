@@ -1,0 +1,11 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "5S2N6TZ55P.com.phantomlab.kiex",
+        "paths": ["/invite/*"]
+      }
+    ]
+  }
+}
