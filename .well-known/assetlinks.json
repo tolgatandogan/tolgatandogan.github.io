@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.phantomlab.kiex",
+    "sha256_cert_fingerprints": [
+      "EA:FA:39:5E:21:49:6D:C4:92:47:BC:7F:AB:09:0B:6A:A9:90:D6:78:70:BC:9A:C1:DA:79:7B:C6:28:24:CC:01"
+    ]
+  }
+}]
